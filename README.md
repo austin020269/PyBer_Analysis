@@ -35,14 +35,6 @@ The mullti-line chart showing total fares for each city type was created by:
 - plot the new dataframe using the df.plot() function. 
 
 
-The Jupyter notebooks (Python code) for the above analysis was worked through in the following files.
-
-https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools.ipynb
-https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_testing.ipynb
-
-The Challenge at the end of the module which finakized results of the study is here:
-
-https://github.com/austin020269/School_District_Analysis/blob/main/PyCitySchools_Challenge_final.ipynb
 
 
 ## Summary
