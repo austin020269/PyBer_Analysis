@@ -2,7 +2,7 @@
 Module 5 ride share app analysis
 
 ## Project Overview
-We were provided ride and city data by PyBer, a ride sharing app company.  The ride-share data spanned a timeframe from January to early May 2019.  Our final projaect was to provide a ride-sharing summary dataFrame by city type and a multiple-line chart of total fares for each city type.  During this study we also created various bubble charts and pie charts to get an idea of what the data looked like as shown below.
+We were provided ride and city data by PyBer, a ride sharing app company.  The ride-share data spanned a timeframe from January to early May 2019.  Our final projaect was to provide a ride-sharing summary dataFrame by city type, a multiple-line chart of total fares for each city type and a final report documenting the work done.  During this study we also created various bubble charts and pie charts to get an idea of what the data looked like as shown below.
 
 ![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
@@ -20,14 +20,19 @@ Software utilized for this study included:
 - GitHub account
 
 ## Analysis and Workflow
-Data for the math and reading scores were removed then we created district and school summary dataframes to manipulte the following:
+The ride share data frame was created by:
+- retrieving the total number of rides, the total number of drivers and the sum of the fares for each city type.
+- calculating the average fare per ride and average fare per driver for each city type.
 
-- Top 5 and bottom 5 performing schools
-- Average math score received by students in each grade level at each school
-- Average reading score received by students in each grade level at each school
-- School performance based on the spending per student
-- School performance based on the size of the school
-- School performance based on the type of school
+The mullti-line chart showing total fares for each city type was created by:
+- creating a new dataframe showing the sum of the fares for each date.
+- resetting the index on the dataframe.
+- creating a pivot table with the date as the index, the columns ='type', and values='fare' to get total fares for each city.
+- creating dataframe from the pivot table. 
+- setting the "date" index to datetime datatype.
+- creating a new dataFrame by week 'W' and get the sum of the fares for each week.
+- plot the new dataframe using the df.plot() function. 
+
 
 The Jupyter notebooks (Python code) for the above analysis was worked through in the following files.
 
