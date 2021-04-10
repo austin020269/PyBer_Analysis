@@ -2,7 +2,7 @@
 Module 5 ride share app analysis
 
 ## Project Overview
-We were provided ride and city data by PyBer, a ride sharing app company.  The ride-share data spanned a timeframe from January to early May 2019.  Our final projaect was to provide a ride-sharing summary dataFrame by city type and a multiple-line chart of total fares for each city type.  During this study we also created various scatter plots and pie charts to get an idea of what the data looked like as shown below.
+We were provided ride and city data by PyBer, a ride sharing app company.  The ride-share data spanned a timeframe from January to early May 2019.  Our final projaect was to provide a ride-sharing summary dataFrame by city type and a multiple-line chart of total fares for each city type.  During this study we also created various bubble charts and pie charts to get an idea of what the data looked like as shown below.
 
 ![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
@@ -11,7 +11,7 @@ We were provided ride and city data by PyBer, a ride sharing app company.  The r
 ## Resources
 Data Sources provided to analyze and minipulate included:
 - ride_data.csv - showing city, date, fare amount and the ride_id
-- city_data.csv - showing city, driver_count and city type (urban, suburbal or rural)
+- city_data.csv - showing city, driver_count and city type (urban, suburban or rural)
 
 Software utilized for this study included: 
 - Python 3.7.6 
