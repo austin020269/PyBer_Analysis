@@ -10,8 +10,8 @@ We were provided ride and city data by PyBer, a ride sharing app company.  The r
 
 ## Resources
 Data Sources provided to analyze and minipulate included:
-- ride_data.csv
-- city_data.csv
+- ride_data.csv - showing city, date, fare amount and the ride_id
+- city_data.csv - showing city, driver_count and city type (urban, suburbal or rural)
 
 Software utilized for this study included: 
 - Python 3.7.6 
