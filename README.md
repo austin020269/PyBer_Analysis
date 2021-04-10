@@ -49,7 +49,7 @@ Some observations we can make about the pyber_summary_df dataframe include:
 - fares and fares per ride are more expensive in rural cities, probably due to the length of the ride
 - fares per ride are cheaper in urban cities
 
-Some observations we can make from the above chart include: 
+Some observations we can make from the Total Fare by City Type chart include: 
 - the overall trends for each city type are relatively similar.
 - their data never interesect each other
 - an overall upward jump in fares in each city type in mid-February
