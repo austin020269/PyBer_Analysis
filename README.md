@@ -36,6 +36,8 @@ The mullti-line chart showing total fares for each city type was created by:
 
 
 
+![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/code.PNG)
+
 
 ## Summary
 
