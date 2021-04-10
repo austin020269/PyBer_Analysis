@@ -6,6 +6,8 @@ We were provided ride and city data by PyBer, a ride sharing app company.  The r
 
 ![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
+![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/Fig6.png)
+
 ## Resources
 Data Sources provided to analyze and minipulate included:
 - ride_data.csv
