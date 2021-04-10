@@ -34,9 +34,7 @@ The mullti-line chart showing total fares for each city type was created by:
 - creating a new dataFrame by week 'W' and get the sum of the fares for each week.
 - plot the new dataframe using the df.plot() function. 
 
-
-
-![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/code.PNG)
+![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
 
 ## Summary
