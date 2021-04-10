@@ -43,7 +43,7 @@ The mullti-line chart showing total fares for each city type was created by:
 
 ## Summary
 
-Some observations we can make about the summary dataframe include:
+Some observations we can make about the pyber_summary_df dataframe include:
 - there are more rides in urban cities than suburban or rural cities
 - there are more drivers in urban cities
 - fares and fares per ride are more expensive in rural cities, probably due to the length of the ride
