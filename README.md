@@ -21,6 +21,7 @@ Software utilized for this study included:
 - GitHub account
 
 ## Analysis and Workflow
+The following flow was generated in our 
 The ride share data frame was created by:
 - retrieving the total number of rides, the total number of drivers and the sum of the fares for each city type.
 - calculating the average fare per ride and average fare per driver for each city type.
