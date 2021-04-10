@@ -27,6 +27,8 @@ The ride share data frame was created by:
 - retrieving the total number of rides, the total number of drivers and the sum of the fares for each city type.
 - calculating the average fare per ride and average fare per driver for each city type.
 
+![alt text](https://github.com/austin020269/PyBer_Analysis/blob/main/analysis/dataframe.PNG)
+
 The mullti-line chart showing total fares for each city type was created by:
 - creating a new dataframe showing the sum of the fares for each date.
 - resetting the index on the dataframe.
